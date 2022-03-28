@@ -1,0 +1,14 @@
+C:\Users\mikael.deigard\Documents\StayAlive\StayAlive\StayAliveLogic\obj\Debug\StayAliveLogic.csproj.CoreCompileInputs.cache
+C:\Users\mikael.deigard\Documents\StayAlive\StayAlive\StayAliveLogic\bin\Debug\StayAliveLogic.dll
+C:\Users\mikael.deigard\Documents\StayAlive\StayAlive\StayAliveLogic\bin\Debug\StayAliveLogic.pdb
+C:\Users\mikael.deigard\Documents\StayAlive\StayAlive\StayAliveLogic\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\mikael.deigard\Documents\StayAlive\StayAlive\StayAliveLogic\obj\Debug\StayAliveLogic.csproj.CopyComplete
+C:\Users\mikael.deigard\Documents\StayAlive\StayAlive\StayAliveLogic\obj\Debug\StayAliveLogic.dll
+C:\Users\mikael.deigard\Documents\StayAlive\StayAlive\StayAliveLogic\obj\Debug\StayAliveLogic.pdb
+C:\Users\mikael.deigard\Documents\StayAlive\StayAlive\StayAliveLogic\obj\Debug\StayAliveLogic.csprojAssemblyReference.cache
+C:\Users\mikael.deigard\Documents\StayAlive3\StayAlive\StayAliveLogic\bin\Debug\StayAliveLogic.dll
+C:\Users\mikael.deigard\Documents\StayAlive3\StayAlive\StayAliveLogic\bin\Debug\StayAliveLogic.pdb
+C:\Users\mikael.deigard\Documents\StayAlive3\StayAlive\StayAliveLogic\obj\Debug\StayAliveLogic.csproj.CoreCompileInputs.cache
+C:\Users\mikael.deigard\Documents\StayAlive3\StayAlive\StayAliveLogic\obj\Debug\StayAliveLogic.dll
+C:\Users\mikael.deigard\Documents\StayAlive3\StayAlive\StayAliveLogic\obj\Debug\StayAliveLogic.pdb
+C:\Users\mikael.deigard\Documents\StayAlive3\StayAlive\StayAliveLogic\obj\Debug\StayAliveLogic.csprojAssemblyReference.cache

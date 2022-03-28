@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=14f4458c_002Df907_002D4177_002Da088_002Df1408f5e1780/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ServiceTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BF3B2B2D-423D-489B-A064-933710785D88::.NETFramework,Version=v4.7.2::StayAliveLogicTest.ServiceTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d938a52_002D925a_002D4436_002Db881_002D2e97cd13f5c5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldSetPresentationModeOnStartUp #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\mikael.deigard\Documents\StayAlive\StayAlive\StayAliveLogicTest" Presentation="&amp;lt;StayAliveLogicTest&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=38f2662d_002D405c_002D4827_002Dab4b_002D10ab88ba01e8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ServiceTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BF3B2B2D-423D-489B-A064-933710785D88::.NETFramework,Version=v4.7.2::StayAliveLogicTest.ServiceTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=40490457_002D1d06_002D45d9_002Da7b4_002D495723d7de9c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldSetPresentationModeOnStartUp" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BF3B2B2D-423D-489B-A064-933710785D88::.NETFramework,Version=v4.7.2::StayAliveLogicTest.ServiceTest.ShouldSetPresentationModeOnStartUp&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
